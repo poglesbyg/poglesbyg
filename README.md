@@ -46,13 +46,6 @@ I'm open to collaborating on:
 - [Portfolio](https://poglesbyg.github.io)
 - [Email](mailto:pogrant@alumni.unc.edu)
 
-## ⚡ Fun Facts
-
-- Passionate about healthcare technology innovation
-- Enjoys solving complex technical challenges
-- Dedicated to creating impactful solutions
-- Always exploring new technologies
-
 ---
 
 <div align="center">
