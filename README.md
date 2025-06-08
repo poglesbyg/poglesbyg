@@ -7,7 +7,7 @@ I'm Paul Greenwood, a Senior Software Engineer specializing in healthcare techno
 - **Healthcare**: FHIR, SMART on FHIR, Healthcare APIs
 - **Enterprise**: Linux, Cloud Architecture, System Design
 - **Data Science**: Machine Learning, Analytics, Big Data
-- **Languages**: Python, JavaScript, TypeScript, C#
+- **Languages**: Python, JavaScript, TypeScript, C#, Rust
 - **Frameworks**: .NET Core, React, Node.js
 - **DevOps**: Docker, Kubernetes, CI/CD
 
