@@ -10,6 +10,7 @@ I'm Paul Greenwood, a Senior Software Engineer specializing in healthcare techno
 - **Languages**: Python, JavaScript, TypeScript, C#, Rust
 - **Frameworks**: .NET Core, React, Node.js
 - **DevOps**: Docker, Kubernetes, CI/CD
+- **AI**: RAG, MCP, A2A
 
 ## 🔭 Current Focus
 
