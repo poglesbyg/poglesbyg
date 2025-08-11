@@ -64,9 +64,5 @@ Voracious reader • Backcountry skiing • Hiking • Camping • Cooking • A
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poglesbyg&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poglesbyg&layout=compact&theme=radical" alt="Top Languages" />
 </div>
