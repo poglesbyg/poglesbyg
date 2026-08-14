@@ -24,16 +24,20 @@ Most of what I build lately answers the same question: how do you get messy, uns
 
 ## 💼 Work
 
-**Data Scientist**, Leading Solutions LLC 
+**Data Scientist**L
+Leading Solutions LLC 
 Supporting USDA Forest Service Hurricane Helene recovery for the National Forests in North Carolina. OCR ingestion pipelines for thousands of scanned survey documents, Python/ML analysis of forest road infrastructure across 1,900+ segments tied to billions in recovery funding, ArcGIS Online automation, and long-term strategic planning analysis.
 
-**Product Manager & Developer**, UNC Chapel Hill School of Medicine
+**Product Manager & Developer**
+UNC Chapel Hill School of Medicine
 AI/ML research tooling, genomics pipelines (NCGenes), clinical NLP, and FHIR/HL7 integrations.
 
-**Project Manager**, UNC Chapel Hill 
+**Project Manager**
+UNC Chapel Hill 
 20+ concurrent research projects.
 
-**Program Coordinator**, UNC Chapel Hill 
+**Program Coordinator**
+UNC Chapel Hill 
 EHR and precision analytics initiatives.
 
 ## 🛠️ Tech
